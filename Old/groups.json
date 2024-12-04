@@ -1,0 +1,144 @@
+{
+    "groups": {
+        "Washingtowing": {
+            "suspendedname": "00 | Suspended",
+            "groupid": 4840434
+        },
+        "Federal Reserve Bank": {
+            "suspendedname": "Suspended",
+            "groupid": 4945419
+        },
+        "US Capitol Police": {
+            "suspendedname": "Suspended",
+            "groupid": 3613856
+        },
+        "Metropolitan Police": {
+            "suspendedname": "00 | Suspended",
+            "groupid": 3614211
+        },
+        "Bus Service": {
+            "suspendedname": "Suspended",
+            "groupid": 3152693
+        },
+        "Bureau of Prisons": {
+            "suspendedname": "Suspended",
+            "groupid": 792297
+        },
+        "Department of Transportation": {
+            "suspendedname": "Suspended",
+            "groupid": 761074
+        },
+        "Diplomatic Security Service": {
+            "suspendedname": "Suspended",
+            "groupid": 3842918
+        },
+        "Department of the Treasury": {
+            "suspendedname": "Suspended",
+            "groupid": 816616
+        },
+        "C-Span": {
+            "suspendedname": "Suspended",
+            "groupid": 958959
+        },
+        "Defense Intelligence Agency": {
+            "suspendedname": "Suspended",
+            "groupid": 905999
+        },
+        "Federal Reserve Police": {
+            "suspendedname": "00 | Suspended",
+            "groupid": 4945448
+        },
+        "Special Forces": {
+            "suspendedname": "Suspended",
+            "groupid": 1252274
+        },
+        "Defense Force Protecetion Agency": {
+            "suspendedname": "Suspended",
+            "groupid": 3876989
+        },
+        "Feberal Bureau of Investigation": {
+            "suspendedname": "Suspended",
+            "groupid": 761706
+        },
+        "United States Military": {
+            "suspendedname": "Suspended",
+            "groupid": 2750566
+        },
+        "Department of Commerce and Labor": {
+            "suspendedname": "Suspended",
+            "groupid": 2900057
+        },
+        "Marshals Service": {
+            "suspendedname": "Suspended",
+            "groupid": 977773
+        },
+        "Central Intelligence Agency": {
+            "suspendedname": "Suspended",
+            "groupid": 761515
+        },
+        "National Security Agency": {
+            "suspendedname": "Suspended",
+            "groupid": 860594
+        },
+        "Washington DC City Council": {
+            "suspendedname": "",
+            "groupid": 2517888
+        },
+        "Federal Protective Service": {
+            "suspendedname": "Suspended",
+            "groupid": 1137634
+        },
+        "Judicial Branch": {
+            "suspendedname": "Suspended",
+            "groupid": 2582797
+        },
+        "Special Weapons and Tactics Team": {
+            "suspendedname": "Suspended",
+            "groupid": 845643
+        },
+        "Secret Service": {
+            "suspendedname": "Suspended",
+            "groupid": 761141
+        },
+        "Department of Homeland and Security": {
+            "suspendedname": "Suspended",
+            "groupid": 759572
+        },
+        "Department of Defense": {
+            "suspendedname": "Suspended",
+            "groupid": 762518
+        },
+        "Department of State": {
+            "suspendedname": "Suspended",
+            "groupid": 761943
+        },
+        "White House Staff": {
+            "suspendedname": "",
+            "groupid": 760517
+        },
+        "Department of Justice": {
+            "suspendedname": "",
+            "groupid": 766074
+        },
+        "Tow Truck Service": {
+            "suspendedname": "Suspended",
+            "groupid": 2641659
+        },
+        "Wells Fargo": {
+            "suspendedname": "Suspended",
+            "groupid": 4672176
+        },
+        "Taxi Service": {
+            "suspendedname": "Suspended",
+            "groupid": 2982685
+        },
+        "Washington DC Emergency Medical Service": {
+            "suspendedname": "Suspended",
+            "groupid": 3615106
+        },
+        "Washington DC Fire Department": {
+            "suspendedname": "Suspended",
+            "groupid": 3327009
+        }
+    }
+}
